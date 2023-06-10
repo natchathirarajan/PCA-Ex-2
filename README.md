@@ -27,8 +27,8 @@ Initialize data at host side and then add matrix at host side ,transfer data fro
 8.Save and Run the Program.
 ~~~
 ## Program:
-## Developed by : P SYAM TEJ
-## Reg. No : 212221240056
+## Name:V.Natchathira Rajan
+## Reg. No : 212221040112
 ~~~
 #include "common.h"
 #include <cuda_runtime.h>
